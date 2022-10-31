@@ -6,7 +6,7 @@ import Weather from './Weather';
   return (
     <div className="App">
       <h1>Weather React App</h1>
-      <Weather />
+      <Weather defaultCity="Berlin" />
       <footer>
         <p>This project was coded by Yuliia Ishchenko and it's open-sourced </p> 
       
